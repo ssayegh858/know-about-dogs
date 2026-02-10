@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #eb0e0eb2;
+  background-color: #1d47e1a8;
 }
 
 ul li {
@@ -26,14 +26,14 @@ ul li:last-child {
 
 ul li a {
   display: block;
-  color: rgba(240, 243, 238, 0.021);
+  color: rgba(13, 13, 13, 0.59);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 ul li a:hover:not(.active) {
-  background-color: #f8f1f3;
+  background-color: #0f5aef;
 }
 
 ul li a.active {
